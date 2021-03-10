@@ -1,0 +1,9 @@
+.main-content {
+  padding: 15px;
+  margin: 0;
+  height: 100%;
+  overflow: auto;
+}
+.ant-layout {
+  background: #f0f2f5;
+}

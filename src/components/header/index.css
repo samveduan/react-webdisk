@@ -1,0 +1,15 @@
+.logo {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+.logo img {
+  margin: 0 5px 0 0;
+  width: 35px;
+  height: 35px;
+}
+.ant-badge-count {
+  box-shadow: 0 0 0 0 #fff;
+}
